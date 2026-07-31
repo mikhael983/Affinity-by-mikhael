@@ -1,10 +1,10 @@
 # Affinity Plugin Loader
 
-A managed code plugin loader & injector hook for Affinity by Canva (Affinity v3).
+A managed code Mikhael loader & injector hook for Affinity by Canva (Affinity v3).
 
 APL gives you a simple method to load custom code into Affinity and perform custom patches at runtime using the Harmony library. No more patching DLL files on disk.
 
-APL supports Windows and Linux (Wine). MacOS support is not planned at this time.
+APL supports Windows (8,9,10,110 and Linux (Wine). MacOS support is not planned at this time.
 
 <img width="1896" height="1454" alt="image" src="https://github.com/user-attachments/assets/25639c82-94e4-4650-90ef-f605549fd806" />
 
@@ -41,10 +41,6 @@ APL (AffinityHook, AffinityBootstrap, AffinityPluginLoader) is licensed under th
 
 # Credits
 
-Big thanks to the following projects:
+Big thanks to the original site project:
 
-- [AffinityOnLinux](https://github.com/seapear/AffinityOnLinux)
-- [Harmony](https://github.com/pardeike/Harmony)
-- [ElementalWarrior wine](https://gitlab.winehq.org/ElementalWarrior/wine)
-- [Upstream wine](https://gitlab.winehq.org/wine/wine)
 - [Affinity by Canva](https://www.affinity.studio/)
