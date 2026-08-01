@@ -1,4 +1,4 @@
-# Affinity Plugin Loader
+# Affinity Mikhael Loader
 
 A managed code Mikhael loader & injector hook for Affinity by Canva (Affinity v3).
 
