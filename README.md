@@ -6,8 +6,6 @@ APL gives you a simple method to load custom code into Affinity and perform cust
 
 APL supports Windows (8,9,10,10) and Linux (Wine). MacOS support is not planned at this time.
 
-<img width="1896" height="1454" alt="image" src="https://github.com/user-attachments/assets/25639c82-94e4-4650-90ef-f605549fd806" />
-
 > [!TIP]
 > 📖 **Full documentation is available at [apl.ncuroe.dev](https://apl.ncuroe.dev)**
 
