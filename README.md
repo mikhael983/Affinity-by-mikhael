@@ -4,7 +4,7 @@ A managed code Mikhael loader & injector hook for Affinity by Canva (Affinity v3
 
 APL gives you a simple method to load custom code into Affinity and perform custom patches at runtime using the Harmony library. No more patching DLL files on disk.
 
-APL supports Windows (8,9,10,110 and Linux (Wine). MacOS support is not planned at this time.
+APL supports Windows (8,9,10,10) and Linux (Wine). MacOS support is not planned at this time.
 
 <img width="1896" height="1454" alt="image" src="https://github.com/user-attachments/assets/25639c82-94e4-4650-90ef-f605549fd806" />
 
